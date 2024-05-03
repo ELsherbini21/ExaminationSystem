@@ -1,0 +1,14 @@
+D:\Files For Web\0 Route BackEnd DotNet\02 C#\Exam\ExamSystem\Exam\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files For Web\0 Route BackEnd DotNet\02 C#\Exam\ExamSystem\Exam\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+D:\Files For Web\0 Route BackEnd DotNet\02 C#\Exam\ExamSystem\Exam\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+D:\Files For Web\0 Route BackEnd DotNet\02 C#\Exam\ExamSystem\Exam\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+D:\Files For Web\0 Route BackEnd DotNet\02 C#\Exam\ExamSystem\Exam\bin\Debug\net6.0\Exam.exe
+D:\Files For Web\0 Route BackEnd DotNet\02 C#\Exam\ExamSystem\Exam\bin\Debug\net6.0\Exam.deps.json
+D:\Files For Web\0 Route BackEnd DotNet\02 C#\Exam\ExamSystem\Exam\bin\Debug\net6.0\Exam.runtimeconfig.json
+D:\Files For Web\0 Route BackEnd DotNet\02 C#\Exam\ExamSystem\Exam\bin\Debug\net6.0\Exam.dll
+D:\Files For Web\0 Route BackEnd DotNet\02 C#\Exam\ExamSystem\Exam\bin\Debug\net6.0\Exam.pdb
+D:\Files For Web\0 Route BackEnd DotNet\02 C#\Exam\ExamSystem\Exam\obj\Debug\net6.0\Exam.dll
+D:\Files For Web\0 Route BackEnd DotNet\02 C#\Exam\ExamSystem\Exam\obj\Debug\net6.0\refint\Exam.dll
+D:\Files For Web\0 Route BackEnd DotNet\02 C#\Exam\ExamSystem\Exam\obj\Debug\net6.0\Exam.pdb
+D:\Files For Web\0 Route BackEnd DotNet\02 C#\Exam\ExamSystem\Exam\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+D:\Files For Web\0 Route BackEnd DotNet\02 C#\Exam\ExamSystem\Exam\obj\Debug\net6.0\ref\Exam.dll
